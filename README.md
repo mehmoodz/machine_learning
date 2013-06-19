@@ -22,6 +22,7 @@ Future reference for myself and students who are interested in machine learning.
 <li>Advanced optimization techniques</li>
 <li>vectorization and matrix manipulation using octave</li>
 <li>Neural Networks - Forward propagation , backward propagation</li>
+<li>Learning Curves and Regression analysis for Bias and Variance.</li>
 </ul>
 
 
